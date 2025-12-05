@@ -1,0 +1,5 @@
+{
+  "name": "StreakMate",
+  "description": "A personal productivity web application for tracking daily habits with streak calculation and managing to-do lists. Features AI-powered motivation and analytics.",
+  "requestFramePermissions": []
+}
